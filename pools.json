@@ -221,9 +221,13 @@
       "link": "https://pool.btcc.com/"
     },
     "BW Pool": {
-      "name": "BW.COM",
-      "link": "https://bw.com/"
-    },
+	  "name" : "BWPool",
+	  "link" : "https://bwpool.net/"
+	},
+	"BWPool": {
+	  "name" : "BWPool",
+	  "link" : "https://bwpool.net/"
+	},
     "xbtc.exx.com&bw.com": {
       "name": "EXX&BW",
       "link": "https://xbtc.exx.com/"
@@ -818,6 +822,14 @@
       "name": "tiger",
       "link": ""
     },
+	"36n452uGq1x4mK7bfyZR8wgE47AnBb2pzi": {
+	  "name" : "Poolin",
+	  "link" : "https://www.poolin.com/"
+	},
+	"3KJrsjfg1dD6CrsTeHdHVH3KqMpvL2XWQn": {
+	  "name" : "Poolin",
+	  "link" : "https://www.poolin.com/"
+	},
     "EZBxbLXkHwCRHgbSVGXkTkgNY2RSWaYpAP": {
       "name": "CryptoADHD.com",
       "link": "https://irl.cryptoadhd.com"
