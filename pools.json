@@ -464,6 +464,10 @@
       "name": "suprnova.cc",
       "link": "https://www.suprnova.cc/"
     }
+	"/SecretSuperstar/": {
+	  "name": "SecretSuperstar",
+	  "link": "http://google.com/search?q=SecretSuperstar"
+	}
   },
   "payout_addresses": {
     "1CjPR7Z5ZSyWk6WtXvSFgkptmpoi4UM9BC": {
